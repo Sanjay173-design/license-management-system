@@ -8,10 +8,11 @@ Built using **MERN stack**, deployed on **AWS EC2**, supports license assignment
 
 ## 🚀 Live Demo
 
-🌍 Frontend: http://13.61.94.101  
+🌍 Frontend: http://13.61.94.101/register  
 🛠 Backend API: http://13.61.94.101:5000/api
 
-> Note: Backend runs using PM2 on AWS EC2 (Ubuntu + Nginx)
+> Note: Server Is Currently Turned off!!
+> Backend runs using PM2 on AWS EC2 (Ubuntu + Nginx)
 
 ---
 
